@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://imgs.xkcd.com/comics/exploits_of_a_mom.png
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="200"/>
+</div>
 
 <!--
 **torteg4/torteg4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
