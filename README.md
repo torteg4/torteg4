@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="200"/>
+  <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png"/>
 </div>
 
 <!--
